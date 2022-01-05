@@ -16,14 +16,8 @@
 			<img > 
 			<a href = "dog_assignment.html" > Click on this for a pic of a dog </a>
 			<p> Learn more about dogs on their wikipedia page <a href = "https://en.wikipedia.org/wiki/Dog" > here. </a> </p>
-			<p> Here is a quote from wikipedia if you don't want to follow the link. </p>
-			
-			<blockquote cite= "https://wikipedia.org"> The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes. </blockquote>
-			
 			<h1>Click below for the image of a kitten </h1>
 			<a href = "https://m.media-amazon.com/images/I/61D0QLJU-hL._AC_SX425_.jpg"> This cat stares into your soul </a> 
-		
-			
 			<h3> </h3>
 			<h6> </h6>
 		</main>
