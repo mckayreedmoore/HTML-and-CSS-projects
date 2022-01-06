@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html>
+	<header>
+		<meta charset = "utf-8">
+		<title> Basic html 4 </title>
+		
+	</header>
+	
+	<body>
+		<style>
+			.classOne {
+				color: dim gray;
+				background-color: blue;
+				font-family: mono;
+			}
+			.classTwo {
+				color: blue;
+				background-color: yellow;
+				font-family: sans;
+			}
+	
+		</style>
+	
+		<h1 class = "classOne"> This is classOne!! </h1>
+		<h2 class = "classTwo"> This is classTwo!! </h2>
+	
+	</body>
+
+</html>

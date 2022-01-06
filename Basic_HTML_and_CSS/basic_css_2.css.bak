@@ -1,0 +1,11 @@
+p {
+	font: monospace;
+	color: orange;
+	text-align: right;
+	font-size: large;
+	}
+	
+h2 p {
+	text-shadow: 3px 3px black;
+	text-align: center;
+}

@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html lang = "en">
+	<header>
+		<meta = "utf-8">
+		<title> html table </title>
+	</header>
+	<body>
+		<table>
+			<tr>
+				<th> First heading </th>
+				<th> Seconnd heading </th>
+				<th> Third heading </th>
+			</tr>
+			<tr>
+				<td> first data </td>
+				<td> second data </td>
+				<td> third data </td>
+			</tr>
+			<tr>	
+				<td> second first data </td>
+				<td> second second data </td>
+				<td> second third data </td>
+			</tr>
+	
+
+		</table>
+	</body>
+
+</html>
