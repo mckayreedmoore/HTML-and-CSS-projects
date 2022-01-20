@@ -1,0 +1,35 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+}
+
+.form-box {
+    border: 1px solid gray;
+    border-radius:7px;
+    width: 270px;
+    margin: auto;
+    display:block;
+}
+
+.form-input {
+    display:block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.submit-button {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+}
+
+h3 {
+    
+    text-align: center;
+}
