@@ -13,5 +13,3 @@ This website is an example website for a movie theater building using bootstrap 
 <h3>Basic HTML and CSS Folder</h3>
 This folder holds the other various small HTML and CSS assignments and challenges. 
 
-<h3>.VSCode</h3>
-This folder holds the Visual Studio Code settings that I used for these projects.
