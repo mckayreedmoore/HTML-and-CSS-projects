@@ -1,0 +1,34 @@
+<!doctype html>
+
+<html>
+	<header>
+		<meta charset = "utf-8">
+		<title> Html spacing challenge </title>
+	</header>
+	
+	<body>
+		<p> Here is a poem <br>
+			that breaks after every line, <br>
+			it works with the word "totem", <br>
+			and even with the tree pine, <br>
+			I hope you thought this was lit, <br>
+			that it filled you with delight, <br>
+			be warned, don't try stealing it, <br>
+			because its copyright &copy; 
+		</p>
+		
+		<section>
+			<p> here is my section, along with 
+				the <span style = "font-weight:bold;text-color:blue"> span 
+				</span> tag
+			</p>
+			
+			<p>
+			 this split &nbsp; &nbsp; &nbsp; has four spaces in it
+			</p>
+		</section>
+		
+		
+	</body>
+
+</html>
