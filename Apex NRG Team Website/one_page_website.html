@@ -5,6 +5,7 @@
 		<meta charset="uft-8">
 		<title> NRG Team Site </title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="./js/main.js"></script>
 	</head>	
 	
 	<body>
@@ -23,7 +24,55 @@
 		<section>
 			<div id ="roster">
 			<h3>Roster<h3>
-			
+				<!--Lighthouse -->
+					<div class="thumbnail-image-container" >
+						<div class="column">
+							<img class="demo" src="./thumbnail/sweet.jpg" class="hover-shadow" onclick="openModal(); currentSlide(1)">
+						</div>
+						<div class="column">
+							<img class="demo" src="./thumbnail/aceu.jpg" class="hover-shadow" onclick="openModal(); currentSlide(2)">
+						</div>
+						<div class="column">
+							<img class="demo" src="./thumbnail/lulu.jpg" class="hover-shadow" onclick="openModal(); currentSlide(3)">
+						</div>
+						<div class="column">
+							<img class="demo" src="./thumbnail/rogue.jpg" class="hover-shadow" onclick="openModal(); currentSlide(4)">
+						</div>
+					</div>
+				<!--End Lighthouse-->
+
+				<!--Modal -->
+				<div id="myModal" class="modal">
+					<span class="close cursor" onclick="closeModal()">&times;</span>
+					
+					<div class="modalContent">
+
+						<div class="mySlides">
+							<div class="numbertext">1/4</div>
+								<img src="./images/sweet.jpg">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">2/4</div>
+								<img src="./images/aceu.jpg">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">3/4</div>
+								<img src="./images/lulu.jpg">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">4/4</div>
+								<img src="./images/rogue.jpg">
+						</div>
+
+						<a class="prev" onclick="plusSlides(-1)">&#10094;</a>	
+						<a class="next" onclick="plusSlides(1)">&#10095;</a>	
+
+					</div>
+
+				</div>
+				
+				
+				
 				<!-- image 1 -->
 				<div>
 					<img src="sweetdreams.jpg">
